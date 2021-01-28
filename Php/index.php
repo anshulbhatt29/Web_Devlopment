@@ -51,7 +51,7 @@ else{
     ?></td>
 </tr>
 </table>
-<form action="inde.php" method="post">
+<form action="index.php" method="post">
 <label>NAME:</label><br>
 <input type="text" name="Name" required><br>
 <label>E-Mail:</label><br>
